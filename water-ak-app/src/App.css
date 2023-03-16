@@ -1,0 +1,50 @@
+.App {
+    text-align: center;
+  }
+  
+ .Welcome {
+  text-decoration: darkblue;
+  text-align: left;
+  margin-left: 20px;
+
+ }
+ 
+ .Goal1 {
+  background-color: rgb(182, 203, 223);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+ }
+ 
+  .Droplet-logo {
+    height: 40vmin;
+    justify-content: left;
+    
+  }
+
+  .Goal-text {
+    flex-direction: column;
+    align-items: center;
+  }
+
+.p {
+  text-decoration: rgb(1, 136, 136);
+}
+
+.Dosage1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: space-between;
+}
+
+.Water-cup {
+  background-color: aqua;
+  height: 5vh;
+  width: 5vh;
+  text-align: center;
+
+}
+ 
